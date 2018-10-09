@@ -1,0 +1,28 @@
+{
+  "name": "printlog",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "nodemon bin/server.js"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "devDependencies": {
+    "nodemon": "^1.18.4",
+    "printscreen": "^1.2.1"
+  },
+  "dependencies": {
+    "desktop-screenshot": "^0.1.1",
+    "express": "^4.16.3",
+    "jspdf": "^1.4.1",
+    "pdf-lib": "^0.3.0",
+    "pdfkit": "^0.8.3",
+    "pdfmake": "^0.1.38",
+    "phantom-html2pdf": "^4.0.1",
+    "yarn": "^1.10.1",
+    "normalize-port": "^1.0.0"
+  }
+}
