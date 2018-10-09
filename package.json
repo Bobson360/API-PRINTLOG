@@ -1,14 +1,14 @@
 {
   "name": "printlog",
   "version": "1.0.0",
-  "description": "",
+  "description": "Api para gerar relatorios por apartir de prints da tela e parametros passados via post",
   "main": "index.js",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1",
     "start": "nodemon bin/server.js"
   },
   "keywords": [],
-  "author": "",
+  "author": "Robson Rodrigues da Silva",
   "license": "ISC",
   "devDependencies": {
     "nodemon": "^1.18.4",
